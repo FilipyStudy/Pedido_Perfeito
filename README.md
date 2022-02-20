@@ -14,7 +14,7 @@ Bom, de qualquer maneira ainda estou no processo de aprendizado, como dizia salo
   Quer contribuir com o meu projeto?
   </h1><br>
   <p style="color:grey; font-family:verdana;">
-  Eu entendo que o ser humano é uma máquina perfeita com ideias e ações imperfeitas. Caso tenha percebido algum erro no cálculo ou alguma maneira que eu possa otimizar 
-  o script entre em contato comigo: <address>filipydasilvacorporativo@gmail.com</address>
+  Eu entendo que o ser humano é uma máquina perfeita com ideias e ações imperfeitas. Caso tenha percebido algum erro no cálculo ou alguma maneira de otimizar o script, fique a vontade para contribuir!:D
+  </p>
 
 </html>
