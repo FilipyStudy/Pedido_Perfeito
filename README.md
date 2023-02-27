@@ -1,8 +1,5 @@
 <html>
-<p style="color:grey; font-family:verdana;">- Opa, tudo bem? Meu nome é Filipy, eu sou estudante de Tecnologia em Processo Gerenciais! Atualmente tenho estudado e me apaixonado cada vez mais pela linguagem python e suas possibilidades. Acredito que o python é uma linguagem que oferece suporte para todos os tipos de automação industrial e de processos administrativos.
-Ela pode com muita facilidade e pouca necessidade de investimento ser uma alternativa eficiente e de baixo custo para as empresas no âmbito geral!
-Bom, de qualquer maneira ainda estou no processo de aprendizado, como dizia salomão no livro de provérbios: <i>"Os simples recebem como herança a insensatez,
-  mas os que têm discernimento têm em paga o conhecimento." Provérbios 10:18.</i></p><br>
+<p style="color:grey; font-family:verdana;">Script voltado para o estudo de indicadores do processo logístico relacionado com as entregas.</i></p><br>
   
  <h1 style="color:grey; font-family:verdana;">
    O que é este projeto?
@@ -12,15 +9,8 @@ Bom, de qualquer maneira ainda estou no processo de aprendizado, como dizia salo
   <br>
   <strong> Não é necessária a instalação de nenhum módulo ou qualquer coisa além do python.<br>
   Necessário a instalação do python na versão mais atualizada, não funcional para versões mais antigas<br>
-  O script ainda está em desenvolvimento e em constante atualização. 
+  O está constante atualização. 
   Novas idéias ou correções serão bem vindas.
   </strong>
-  
-  <h1 style="color:grey; font-family:verdana;">
-  Quer contribuir com o meu projeto?
-  </h1><br>
-  <p style="color:grey; font-family:verdana;">
-  Eu entendo que o ser humano é uma máquina perfeita com ideias e ações imperfeitas. Caso tenha percebido algum erro no cálculo ou alguma maneira de otimizar o script, fique a vontade para contribuir!:D
-  </p>
 
 </html>
